@@ -1,0 +1,39 @@
+Nine-Tiles = 9
+Score = 9
+One more card? (0 is No)
+2
+Three-Clovers = 3
+Score = 12
+One more card? (0 is No)
+1
+Ace-Tiles = 11
+Score = 23
+You loose
+//////////////////////////
+Five-Clovers = 5
+Score = 5
+One more card? (0 is No)
+2
+Nine-Pikes = 9
+Score = 14
+One more card? (0 is No)
+1
+Queen-Pikes = 3
+Score = 17
+One more card? (0 is No)
+0
+You Win
+Dealer`s score is 26
+/////////////////////////
+Ace-Hearts = 11
+Score = 11
+One more card? (0 is No)
+2
+Two-Pikes = 2
+Score = 13
+One more card? (0 is No)
+2
+Three-Tiles = 3
+Score = 16
+You Win
+Dealer`s score is 22
