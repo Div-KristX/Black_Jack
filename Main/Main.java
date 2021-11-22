@@ -1,9 +1,13 @@
-package Pegasus;
+package Pegasus.Main;
 
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Set;
 
 public class Main {
 
@@ -36,7 +40,7 @@ public class Main {
         3, 3, 3, 3,
         4, 4, 4, 4,
         11, 11, 11, 11};
-    List<Integer> fill = new ArrayList<>();
+    List<Integer> fill = new ArrayList<Integer>();
     for (int i = 0; i < 52; i++) {
       fill.add(i);
     }
